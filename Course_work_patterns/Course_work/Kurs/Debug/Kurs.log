@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Kurs.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  SceneController.cpp
+D:\Oles\Programming\C++\Course_work\Kurs\Figure.h(11,12): warning C4305: инициализация: усечение из "double" в "float"
+D:\Oles\Programming\C++\Course_work\Kurs\Figure.h(11,21): warning C4305: инициализация: усечение из "double" в "float"
+D:\Oles\Programming\C++\Course_work\Kurs\Figure.h(11,30): warning C4305: инициализация: усечение из "double" в "float"
+D:\Oles\Programming\C++\Course_work\Kurs\Maker.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Kurs.vcxproj -> D:\Oles\Programming\C++\Course_work\Debug\Course_work.exe
