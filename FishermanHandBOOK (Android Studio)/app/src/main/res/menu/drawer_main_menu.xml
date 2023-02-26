@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    tools:showIn="navigation_view"> <!--Створюємо меню, яке висовується зліва на право-->
+
+    <group android:checkableBehavior="single"> <!--анімація натисання вибраної кнопки-->
+        <!--Кожен рядочок в меню це один item. title - текст елементу(рядочку) в меню-->
+        <item android:title="@string/fish"
+            android:id="@+id/id_fish"
+            android:icon="@drawable/ic_fish"/>
+
+        <item android:title="@string/bait"
+            android:id="@+id/id_bait"
+            android:icon="@drawable/ic_bait"/>
+
+        <item android:title="@string/tackle"
+            android:id="@+id/id_fishFloat"
+            android:icon="@drawable/ic_float"/>
+
+        <item android:title="@string/history"
+            android:id="@+id/id_history"
+            android:icon="@drawable/ic_history"/>
+
+    </group>
+
+   <item android:title="About">
+       <menu>
+           <item android:title="about_us"
+               android:id="@+id/id_ab"
+               android:icon="@drawable/ic_history"/>
+       </menu>
+   </item>
+
+
+</menu>
