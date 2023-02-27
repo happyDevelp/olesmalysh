@@ -4,7 +4,7 @@
 
 ## *First entry*
 
-### When you open the App for the first time you`ll see this view. You can see the names, pictures and shorts desctiption. You can sroll up or down.
+### When you open the App for the first time you`ll see this view. You can see the names, pictures and shorts description. You can scroll up or down.
 
 ![first_open](https://github.com/happyDevelp/olesmalysh/blob/main/FishermanHandBOOK%20(Android%20Studio)/pic/Screenshot_164.png?raw=true) 
 
